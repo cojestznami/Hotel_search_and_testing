@@ -1,0 +1,14 @@
+[32mINFO    [0m pages.search_hotel:search_hotel.py:21 Setting city Dubai
+[32mINFO    [0m pages.search_hotel:search_hotel.py:27 Setting check in [checkin] and [checkout] dates
+[32mINFO    [0m pages.search_hotel:search_hotel.py:32 Setting travellers adults - 2 and child - 5
+[32mINFO    [0m pages.search_hotel:search_hotel.py:40 Performing search
+[32mINFO    [0m pages.search_results:search_results.py:15 Available hotels are: 
+[32mINFO    [0m pages.search_results:search_results.py:18 Jumeirah Beach Hotel
+[32mINFO    [0m pages.search_results:search_results.py:18 Oasis Beach Tower
+[32mINFO    [0m pages.search_results:search_results.py:18 Rose Rayhaan Rotana
+[32mINFO    [0m pages.search_results:search_results.py:18 Hyatt Regency Perth
+[32mINFO    [0m pages.search_results:search_results.py:24 Prices are: 
+[32mINFO    [0m pages.search_results:search_results.py:26 $22
+[32mINFO    [0m pages.search_results:search_results.py:26 $50
+[32mINFO    [0m pages.search_results:search_results.py:26 $80
+[32mINFO    [0m pages.search_results:search_results.py:26 $150
