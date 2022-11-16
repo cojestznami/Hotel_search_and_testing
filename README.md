@@ -1,1 +1,1 @@
-# Hotel_search_ang_testing
+Script entering a test page. Looking for some random value and checking results.
